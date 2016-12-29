@@ -4,5 +4,6 @@ appengine-generated/
 /ToonTalk-Pages/gwt-unitCache/
 /ToonTalk-Pages/war/toontalk_pages/gwt/clean/
 /ToonTalk-Pages/war/toontalk_pages/
+/ToonTalk-Pages/war/WEB-INF/deploy/
 *.jar
 *.class
