@@ -1,6 +1,8 @@
 # Google App Engine generated folder
 appengine-generated/
 /bin/
-
+/ToonTalk-Pages/gwt-unitCache/
+/ToonTalk-Pages/war/toontalk_pages/gwt/clean/
+/ToonTalk-Pages/war/toontalk_pages/
 *.jar
 *.class
